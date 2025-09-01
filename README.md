@@ -10,15 +10,16 @@ Fecha del Proyecto: 26 de Octubre de 2023
 OtaijU es una aplicación móvil multiplataforma desarrollada con Flutter y Firebase, diseñada para que los usuarios puedan conectarse, compartir publicaciones, unirse a grupos y chatear en tiempo real.
 
 📸 Capturas de Pantalla
+<img width="470" height="1075" alt="Captura de pantalla 2025-09-01 045743" src="https://github.com/user-attachments/assets/c7c8a89f-75cd-4507-adc2-83bc7c0ba725" />
+<img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045737" src="https://github.com/user-attachments/assets/e7cc662c-fa40-44ee-a34d-ce76c34a1685" />
+<img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045826" src="https://github.com/user-attachments/assets/83ed1c0b-6792-44cc-aac1-ae9fac49f0e4" />
+<img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045815" src="https://github.com/user-attachments/assets/74538c1a-3b94-41c7-8e97-c2682b659003" />
+<img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045809" src="https://github.com/user-attachments/assets/09d1a88b-178f-415e-98eb-1dd737536e79" />
+<img width="470" height="1075" alt="Captura de pantalla 2025-09-01 045804" src="https://github.com/user-attachments/assets/0f612774-357a-4640-bce4-6544b6f30c22" />
+<img width="470" height="1075" alt="Captura de pantalla 2025-09-01 045759" src="https://github.com/user-attachments/assets/5601455f-933a-49c4-a292-55b215701e98" />
+<img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045755" src="https://github.com/user-attachments/assets/a9f8ce12-29c5-453d-bafa-0bd2bf00d8d9" />
 
 
-Pantalla de inicio de sesión y registro
-
-
-Visualización de publicaciones en el feed
-
-
-Interacción mediante chat con otros usuarios
 
 🔹 Tabla de Contenidos
 
@@ -135,3 +136,4 @@ Pruebas: Implementar pruebas unitarias e integradas.
 ✅ Conclusiones
 
 OtaijU es un proyecto prometedor y escalable. Con la implementación de las mejoras propuestas, puede consolidarse como una plataforma de redes sociales completa y atractiva para usuarios.
+
