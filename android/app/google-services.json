@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "922136513534",
+    "project_id": "actividad7-24664",
+    "storage_bucket": "actividad7-24664.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922136513534:android:d31c7c878b0b706d76ceaf",
+        "android_client_info": {
+          "package_name": "com.example.actividad7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0hIEvy5yJaMZhi4zmUNo5Y4g0PtzKS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922136513534:android:5ba579e977a72f0c76ceaf",
+        "android_client_info": {
+          "package_name": "com.example.otaiju_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0hIEvy5yJaMZhi4zmUNo5Y4g0PtzKS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922136513534:android:9433ad58ae17e9e176ceaf",
+        "android_client_info": {
+          "package_name": "com.example.tuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0hIEvy5yJaMZhi4zmUNo5Y4g0PtzKS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
