@@ -10,6 +10,7 @@ Fecha del Proyecto: 26 de Octubre de 2023
 OtaijU es una aplicación móvil multiplataforma desarrollada con Flutter y Firebase, diseñada para que los usuarios puedan conectarse, compartir publicaciones, unirse a grupos y chatear en tiempo real.
 
 📸 Capturas de Pantalla
+<td/>
 <img width="470" height="1075" alt="Captura de pantalla 2025-09-01 045743" src="https://github.com/user-attachments/assets/c7c8a89f-75cd-4507-adc2-83bc7c0ba725" />
 <img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045737" src="https://github.com/user-attachments/assets/e7cc662c-fa40-44ee-a34d-ce76c34a1685" />
 <img width="476" height="1080" alt="Captura de pantalla 2025-09-01 045826" src="https://github.com/user-attachments/assets/83ed1c0b-6792-44cc-aac1-ae9fac49f0e4" />
@@ -136,4 +137,5 @@ Pruebas: Implementar pruebas unitarias e integradas.
 ✅ Conclusiones
 
 OtaijU es un proyecto prometedor y escalable. Con la implementación de las mejoras propuestas, puede consolidarse como una plataforma de redes sociales completa y atractiva para usuarios.
+
 
