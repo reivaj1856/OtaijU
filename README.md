@@ -4,8 +4,8 @@ OtaijU
 
 
 
-
-Fecha del Proyecto: 26 de Octubre de 2023
+## 🎥 Demostración en YouTube
+Mira el video aquí: [Ver en YouTube](https://youtu.be/XOwI3WTENfk)
 
 OtaijU es una aplicación móvil multiplataforma desarrollada con Flutter y Firebase, diseñada para que los usuarios puedan conectarse, compartir publicaciones, unirse a grupos y chatear en tiempo real.
 
